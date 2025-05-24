@@ -17,15 +17,15 @@ Bem-vindo(a) ao meu portfólio de projetos! Aqui você encontrará alguns dos tr
 
 | Projeto | Descrição | Tecnologias |
 |--------- | --------- | ----------- |
-| [Análise de Vendas](./projeto1_nome) | Dashboard e análise exploratória de um dataset de vendas. | Python, Power BI |
-| [Modelo de Previsão de Estoque](./projeto2_nome) | Machine Learning para prever necessidade de reposição de estoque. | Python, Scikit-Learn |
-| [Simulação de Layout de Picking](./projeto3_nome) | Otimização de layout para picking em armazém. | Python, Matplotlib |
-
+| [Análise de Cancelamento de Clientes](./analiseCancelamento/) | Análise exploratória de dados (EDA) sobre o comportamento de clientes com foco no **cancelamento**. | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| [Análise de Vendas](./analiseVendas/) | Análise exploratória de dados (EDA) sobre um conjunto de dados de vendas. | Python, Pandas, Matplotlib |
+| [Análise de Fatores Associados à Depressão](./depressão/) | Análise exploratória e estatística de um conjunto de dados relacionados ao bem-estar estudantil, com foco em identificar fatores associados à **depressão**. | Python, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-learn|
+| [Análise de Vendas](./vendas/) | Análise exploratória de dados (EDA) aplicada a um conjunto de dados de vendas, com o objetivo de identificar padrões de comportamento, tendências e oportunidades de melhoria para aumentar a eficiência e o desempenho comercial. | Python, Pandas,  Matplotlib, Seaborn, NumPy |
 ---
 
 ## 🎯 Tecnologias
 
-- Python (Pandas, Seaborn, Scikit-Learn)
+- Python (Pandas, Seaborn, Scikit-Learn, Statsmodels)
 - Power BI
 - SQL
 - Estatística e Visualização de Dados
