@@ -21,6 +21,7 @@ Bem-vindo(a) ao meu portfólio de projetos! Aqui você encontrará alguns dos tr
 | [Análise de Vendas](./analiseVendas/) | Análise exploratória de dados (EDA) sobre um conjunto de dados de vendas. | Python, Pandas, Matplotlib |
 | [Análise de Fatores Associados à Depressão](./depressão/) | Análise exploratória e estatística de um conjunto de dados relacionados ao bem-estar estudantil, com foco em identificar fatores associados à **depressão**. | Python, Pandas, Matplotlib, Seaborn, Statsmodels, Scikit-learn|
 | [Análise de Vendas](./vendas/) | Análise exploratória de dados (EDA) aplicada a um conjunto de dados de vendas, com o objetivo de identificar padrões de comportamento, tendências e oportunidades de melhoria para aumentar a eficiência e o desempenho comercial. | Python, Pandas,  Matplotlib, Seaborn, NumPy |
+| [Plano de Recuperação de Lucro](./Plano de Recuperação de Lucro/) | Análise de vendas com foco em identificar prejuízos da subcategoria Mesas e avaliar como o modal de envio Standard Class afeta a lucratividade. O estudo explora KPIs, cenários de melhoria e insights logísticos para otimizar margens e recuperar desempenho comercial. | Power BI, DAX, Modelagem de Dados, Visual Analytics |
 ---
 
 ## 🎯 Tecnologias
